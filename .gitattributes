@@ -17,9 +17,6 @@
 # Ensure CSV files are treated as text and normalized to LF line endings
 *.csv text eol=lf
 
-# Custom file attributes for specific types (e.g., DSPy-related files if any specific extensions are used)
-#*.dspy text eol=lf  # Uncomment and adjust if .dspy is a custom file extension
-
 # Ensure all shell scripts use LF line endings
 *.sh text eol=lf
 
