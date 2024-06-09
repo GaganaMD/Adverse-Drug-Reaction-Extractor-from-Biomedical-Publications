@@ -1,0 +1,6 @@
+dspy-ai
+datasets
+sentence_transformers
+torch
+dspy
+graph_of_thoughts
